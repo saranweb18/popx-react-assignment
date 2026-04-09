@@ -5,7 +5,7 @@ A pixel-perfect, mobile-centered React application.
 The application strictly adheres to the provided Adobe XD design constraints, featuring seamless routing, custom interactive UI elements, and a clean component architecture.
 
 🚀 **Live Demo**  
-[https://popx-app-ecru.vercel.app](https://popx-app-ecru.vercel.app)
+https://popx-react-assignment-i5zk.vercel.app/
 
 ✨ **Key Features**
 - **Pixel-Perfect UI:** The mobile interface is precisely centered on the webpage as per project requirements.
@@ -28,7 +28,7 @@ To run this project locally, clone the repository and follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Soumilya-arko/educase-popx-assignment
+git clone https://github.com/saranweb18/popx-react-assignment
 
 # Navigate to project directory
 cd popx-app
