@@ -38,3 +38,10 @@ npm install --legacy-peer-deps
 
 # Start the development server
 npm run dev
+
+
+
+Author: Saran Web
+GitHub: saranweb18
+
+
