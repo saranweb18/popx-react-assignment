@@ -16,14 +16,14 @@ function Landing() {
       </div>
 
       <div className="flex flex-col gap-3">
-        <button 
+        <button
           onClick={() => navigate('/signup')}
           className="w-full bg-popx-purple text-white py-3.5 rounded-md font-semibold text-[15px] hover:bg-purple-700 transition-colors"
         >
           Create Account
         </button>
-        
-        <button 
+
+        <button
           onClick={() => navigate('/login')}
           className="w-full bg-popx-light-purple text-gray-900 py-3.5 rounded-md font-semibold text-[15px] hover:bg-purple-300 transition-colors"
         >

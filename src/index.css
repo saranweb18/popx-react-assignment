@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-@import "tailwindcss";
 
-@theme {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
   --color-popx-purple: #6C25FF;
   --color-popx-light-purple: #CBC3E3;
   --color-popx-gray: #ececec;
@@ -10,5 +13,6 @@
 
 body {
   margin: 0;
+  font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
